@@ -1,0 +1,41 @@
+/* Text */
+h5 {
+  font-size:xx-large;
+  color: #623779;
+}
+
+p {
+  font-size:larger;
+}
+
+/* Navigation bar */
+
+.customNav {
+  position: fixed;
+  width: 100%;
+  background-color: #C18076 !important;
+  background-size: cover;
+  z-index: 10;
+}
+
+.navbar-nav {
+  color: #131F32;
+  margin:auto;
+}
+
+.nav-link {
+  font-size: x-large;
+}
+
+/* Jumbotron  */
+.jumbotron {
+  background-image: url(../images/Background.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(75vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
