@@ -13,7 +13,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background-color: white !important;
+  background-color: #F5E8E4 !important;
   background-size: cover;
   z-index: 10;
 }
