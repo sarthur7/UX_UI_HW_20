@@ -38,4 +38,11 @@ p {
   justify-content: center;
 }
 
+/* Project Overview  */
+
+.card {
+  padding: 100px;
+  border: none;
+}
+
 
